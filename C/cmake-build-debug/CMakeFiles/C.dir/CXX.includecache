@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nw17/contest/C/C.cpp
+algorithm
+-
+functional
+-
+climits
+-
+cmath
+-
+cstdio
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+sstream
+-
+iomanip
+-
+deque
+-
+list
+-
+map
+-
+queue
+-
+stack
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,6 @@
+for x in {A..M}
+do
+	mkdir ${x}
+	cp A.cpp ${x}/${x}.cpp
+	cp A.py ${x}/${x}.py
+done

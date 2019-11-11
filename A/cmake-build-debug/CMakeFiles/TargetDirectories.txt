@@ -1,0 +1,3 @@
+/home/nw17/contest/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nw17/contest/A/cmake-build-debug/CMakeFiles/A.dir
+/home/nw17/contest/A/cmake-build-debug/CMakeFiles/edit_cache.dir
